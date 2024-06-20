@@ -1,3 +1,5 @@
+> *A fork that has build tags for `GOOS=js` `GOARCH=wasm` so libraries using this will compile. [Details here](wasm/README.md)*
+
 # sys
 
 [![Go Reference](https://pkg.go.dev/badge/golang.org/x/sys.svg)](https://pkg.go.dev/golang.org/x/sys)
